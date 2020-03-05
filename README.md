@@ -52,3 +52,10 @@ Dr. Shi Wei, University of Alabama at Birmingham
 Dr. Youli Zu, Houston Methodist Hospital/Cornell Medicine
 
 Dr. Lanijng “L.J.” Zhang (Program director), Princeton Medical Center/Rutgers University
+
+### SPONSORS
+[Aurora diagnostics](https://www.auroradx.com/)
+
+[Merck](https://www.merck.com/) 
+
+[Princeton Medical Center](https://www.princetonhcs.org/)
