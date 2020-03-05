@@ -1,7 +1,7 @@
 ## The Seventh Princeton Integrated Pathology Symposium (PIPS VII): Bone, Soft Tissue and Hematologic Pathology 
 ### Date: Sat. May 16, 2020. 
 
-This is the backup site for Princeton Integrated Pathology Symposium (PIPS) The free course offers CME credits, as well as free continental breakfast and lunch.  
+This is the backup site for Princeton Integrated Pathology Symposium (PIPS). The free course offers CME credits, as well as free continental breakfast and lunch.  
 
 ### RSVP by April 16, 2020 at [the google link](https://forms.gle/ccN5JEs2r9zSbZfZ6) or [http://bit.do/7pips](http://bit.do/7pips). 
 
