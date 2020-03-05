@@ -1,9 +1,11 @@
 ## The Seventh Princeton Integrated Pathology Symposium (PIPS VII): Bone, Soft Tissue and Hematologic Pathology 
 ### Date: Sat. May 16, 2020. 
+### Location: Conference Room of Education Building, Princeton Medical Center [direction](https://www.princetonhcs.org/patients-visitors/directions-parking-and-maps) 
+Address: 1 Plainsboro Rd. Plainsboro, NJ 08536
 
-This is the backup site for Princeton Integrated Pathology Symposium (PIPS). The free course offers CME credits, as well as free continental breakfast and lunch.  
+### The free course offers CME credits, as well as free continental breakfast and lunch.  
 
-### RSVP by April 16, 2020 at [the google link](https://forms.gle/ccN5JEs2r9zSbZfZ6) or [http://bit.do/7pips](http://bit.do/7pips). 
+### Please RSVP by April 16, 2020 at [the google link](https://forms.gle/ccN5JEs2r9zSbZfZ6) or [http://bit.do/7pips](http://bit.do/7pips). 
 
 The pdf flyer of PIPS VII could be found at [Github site](https://github.com/thezhanglab/pips/blob/master/The_7th_Annual_Princeton_Integrated_Pathology_Symposium_v0.02.pdf) or [the mailchimp site](https://princetonhcs.us8.list-manage.com/track/click?u=9d38c4d01cf0a6af302fa65e1&id=8e8dee50c9&e=7c5e3bdfd1)
 
