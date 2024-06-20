@@ -13,7 +13,7 @@ The pdf flyer of PIPS VII could be found at [Github site](https://github.com/the
 
 The registration may be closed before 4/16/19 if the capacity limit is reached before the registration deadline.
 
-### AGENDA
+### _AGENDA_
 8:25- 8:30 am          Opening remarks. Dr. Lanjing "L.J." Zhang, Princeton Medical Center/Rutgers University
 
 8:30-9:15 am           Many “reactive lesions” of bone are probably neoplasms. by Dr. Gene Siegal, University of Alabama at Birmingham
@@ -38,7 +38,7 @@ Lunch break            12:15-1:15 pm
 
 3:30-5:00 pm           Networking session
  
-### FACULTY 
+### _FACULTY_
 Dr. John S. J. Brooks, Pennsylvania Hospital/UPenn
 
 Dr. James R. Cook, Cleveland Clinic
@@ -57,7 +57,7 @@ Dr. Youli Zu, Houston Methodist Hospital/Cornell Medicine
 
 Dr. Lanijng “L.J.” Zhang (Program director), Princeton Medical Center/Rutgers University
 
-### SPONSORS
+### _SPONSORS_
 [Aurora diagnostics](https://www.auroradx.com/)
 
 [Merck](https://www.merck.com/) 
